@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Mar  27 21:26:16 2018
+@author: Rudra
+"""
 import numpy
 from scipy.fftpack import dct
 ###################################################
