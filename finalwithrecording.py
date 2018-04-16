@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Mar  27 21:26:16 2018
+@author: Rudra
+"""
 from tkinter import filedialog        #for opening file explorer
 from tkinter import font              #for changing font of the words
 from tkinter import *
