@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Mar  27 21:26:16 2018
+@author: Rudra
+"""
 import numpy as np
 from math import sqrt
 from sklearn.externals import joblib  #for opening the trained model
