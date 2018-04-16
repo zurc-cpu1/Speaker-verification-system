@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Mar  27 21:26:16 2018
+@author: Rudra
+"""
 import scipy.io.wavfile as wav
 import numpy as np 
 from sklearn.preprocessing import StandardScaler
